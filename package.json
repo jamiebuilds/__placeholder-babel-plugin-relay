@@ -1,0 +1,19 @@
+{
+  "name": "babel-plugin-relay",
+  "version": "1.0.0",
+  "description": "Holding onto the babel-plugin-relay npm name for https://github.com/facebook/relay/issues/256",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thejameskyle/__placeholder-babel-plugin-relay.git"
+  },
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thejameskyle/__placeholder-babel-plugin-relay/issues"
+  },
+  "homepage": "https://github.com/thejameskyle/__placeholder-babel-plugin-relay#readme"
+}
